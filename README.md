@@ -157,4 +157,4 @@ Designed and prototyped a **responsive website** for a **client project**, focus
  - Demonstrates expertise in **logistics, supply chain analytics, and operational efficiency**.
  - Relevant to **Digital Supply Chain & Workflow Optimization Projects**.
 
-📌 **[View Certification](your-GitHub-link-to-PDF)**
+📌 **[View Certification](https://github.com/JasraHaja/jasra-projects-portfolio/blob/main/SCM%20CERTIFICATE.pdf)**
