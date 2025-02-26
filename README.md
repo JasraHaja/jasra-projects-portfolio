@@ -17,7 +17,7 @@ Developed a **VR-based simulation** to train hospital staff on ergonomic safety 
 
 ### 🏗 **My Role & Contributions**  
 - Led **system architecture planning** and **workflow design**  
-- Developed **interactive VR environments** using **Unity & Oculus VR**  
+- Developed **interactive VR environments** using **Unity & Meta Quest 3**  
 - Implemented **real-time feedback mechanics** to improve training outcomes  
 - Conducted **user testing sessions** to validate effectiveness  
 
