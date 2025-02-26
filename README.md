@@ -8,7 +8,7 @@ Welcome! This repository showcases the projects I’ve worked on, focusing on **
 3. 🔒 [Firewall Hardening & Cybersecurity](#Firewall-Hardening-and-Cybersecurity-Configurations)  
 4. 🌱 [Sustainability Hackathon (Runner-Up)](#Sustainability-Hackathon)  
 5. 🎨 [Website Prototyping on Figma](#Website-Prototyping-on-Figma)  
-
+6. 📜 [Certifications](#Certifications)  
 ---
 
 ## VR Application for Ergonomic Training   
@@ -148,3 +148,13 @@ Designed and prototyped a **responsive website** for a **client project**, focus
 ✅ Increased **user engagement by 30%** based on usability tests  
 ✅ Successfully **delivered prototype to the client**  
 ✅ Received **positive feedback on design clarity & responsiveness**  
+
+
+
+## Certifications
+
+- **Supply Chain Management (SCM) Certification** – *Awarded by [Issuing Organization]* *(20 Feb 2025)*  
+ - Demonstrates expertise in **logistics, supply chain analytics, and operational efficiency**.
+ - Relevant to **Digital Supply Chain & Workflow Optimization Projects**.
+
+📌 **[View Certification](your-GitHub-link-to-PDF)**
