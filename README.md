@@ -1,7 +1,13 @@
 # Jasra's Projects Portfolio 🚀
 
-Welcome to my portfolio repository! Here, you'll find an overview of the projects I’ve worked on, including automation, cybersecurity, workflow optimization, and technical implementations.
 
+Welcome! This repository showcases the projects I’ve worked on, focusing on **automation, cybersecurity, workflow optimization, and digital transformation**. Each project highlights **problem-solving, technical skills, and structured execution** to improve efficiency and system reliability.
+
+1. 🎮 **[VR Application for Ergonomic Training](#vr-application-for-ergonomic-training)**  
+2. 🤖 **[Telegram Bot for Workflow Automation](#telegram-bot-for-workflow-automation)**  
+3. 🔒 **[Firewall Hardening & Cybersecurity](#firewall-hardening--cybersecurity)**  
+4. 🌱 **[Sustainability Hackathon (Runner-Up)](#sustainability-hackathon-runner-up)**  
+5. 🎨 **[Website Prototyping on Figma](#website-prototyping-on-figma)**   
 ---
 
 ## 🔹 VR Application for Ergonomic Training 🎮
