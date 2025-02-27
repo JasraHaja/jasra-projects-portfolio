@@ -1,7 +1,12 @@
 # Jasra's Projects Portfolio 🚀
 
 
-Welcome! This repository showcases the projects I’ve worked on, focusing on **automation, cybersecurity, workflow optimization, and digital transformation**. Each project highlights **problem-solving, technical skills, and structured execution** to improve efficiency and system reliability.
+Welcome! This repository showcases **projects where I integrate technology, automation, and structured problem-solving** to improve **workflow efficiency, cybersecurity, and digital transformation.**  
+
+Each project reflects my ability to **analyze systems, optimize processes, and implement technical solutions**—bridging the gap between **engineering, operations, and project execution.**  
+
+With experience in **automation, cybersecurity, and supply chain optimization,** I focus on **creating scalable, structured solutions** that drive **real-world impact.**   
+
 
 1. 🎮 [VR Application for Ergonomic Training](#VR-Application-for-Ergonomic-Training)  
 2. 🤖 [Telegram Bot for Workflow Automation](#Telegram-Bot-for-Workflow-Automation)  
@@ -9,7 +14,7 @@ Welcome! This repository showcases the projects I’ve worked on, focusing on **
 4. 🌱 [Sustainability Hackathon (Runner-Up)](#Sustainability-Hackathon)  
 5. 🎨 [Website Prototyping on Figma](#Website-Prototyping-on-Figma)  
 6. 📜 [Certifications](#Certifications)
-7. !! [Jobs](#Jobs)  
+7. 💼 [Teaching and Mentorship](#Teaching-and-Mentorship)  
 
 ---
 
@@ -66,8 +71,6 @@ Built a **Telegram bot** to automate **workflow tracking and system logging**, r
 ### 🎯 **Impact & Results**  
 ✅ Reduced **manual log retrieval time by 50%**  
 ✅ Improved **incident response time by 40%** through real-time alerts  
-✅ Successfully **deployed & used by [Company/Department Name]**  
-
 
 ---
 
@@ -98,7 +101,10 @@ Conducted **firewall security hardening** for enterprise systems to **strengthen
 ✅ Improved **firewall efficiency by 60%** with optimized rule sets  
 ✅ Reduced **security incidents by 45%** through proactive configurations  
 ✅ Successfully **implemented in a live enterprise environment**  
+
+
 ---
+
 
 ## Sustainability Hackathon  
 ### 📌 Project Overview  
@@ -120,10 +126,11 @@ Participated in a **hackathon** focused on sustainability, developing a **digita
 **Challenge:** Ensuring app **usability for all age groups**  
 ✔ **Solution:** Designed **simple UI with accessibility considerations**  
 
-### 🎯 **Impact & Results**  
+### 🎯 Impact & Results  
 ✅ Won **Runner-Up position** in a **national sustainability hackathon**  
 ✅ Created a **working POC in under 24 hours**  
 ✅ Received **positive feedback from judges on UI/UX design**  
+
 ---
 
 ## Website Prototyping on Figma 
@@ -155,7 +162,7 @@ Designed and prototyped a **responsive website** for a **client project**, focus
 
 ## Certifications
 
-- **Supply Chain Management (SCM) Certification** – *Awarded by [Issuing Organization]* *(20 Feb 2025)*  
+- **Supply Chain Management (SCM) Certification** – *Awarded by [SIX SIGMA ACADEMY AMSTERDAM]* *(Feb 2025)*  
  - Demonstrates expertise in **logistics, supply chain analytics, and operational efficiency**.
  - Relevant to **Digital Supply Chain & Workflow Optimization Projects**.
 
@@ -164,8 +171,20 @@ Designed and prototyped a **responsive website** for a **client project**, focus
 -MOE-IRS Certified instructor 
 
 
-## Jobs
+## Teaching and Mentorship
 
-- Part time coding and robotics coach at robothink for 2 years LOLOLOLOLOOLOLOLOLOLOLOLOL
-- Freelance coding and robotics coach at EP-Tech
+### 💼 Job Experience  
+- **Part-Time Coding & Robotics Coach** @ **RobotThink** *(2 years)*  
+- **Freelance Coding & Robotics Coach** @ **EP-Tech** *(2 years)*
+
+### 🔹 What I Did  
+- Taught **block-based coding & Python programming** to students aged **4-12**, covering **logical thinking, problem-solving, and robotics**.  
+- Conducted **interactive STEM workshops**, guiding students in building and programming **LEGO & Arduino-based robots**.  
+- Designed **custom lesson plans** on **coding fundamentals, automation, and creative problem-solving challenges**.  
+- Adapted teaching methods to different **learning styles & paces**, ensuring an **engaging and structured learning experience**.  
+
+### 🚀 Key Takeaways & Impact  
+✅ Helped students **develop confidence in coding & automation**.  
+✅ Created an **inclusive and fun learning environment** that encouraged **experimentation and logical thinking**.  
+✅ Witnessed *"Ohhh I get it now!"* moments—priceless. 😌  
 
