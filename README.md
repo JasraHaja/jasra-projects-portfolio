@@ -8,7 +8,9 @@ Welcome! This repository showcases the projects I’ve worked on, focusing on **
 3. 🔒 [Firewall Hardening & Cybersecurity](#Firewall-Hardening-and-Cybersecurity-Configurations)  
 4. 🌱 [Sustainability Hackathon (Runner-Up)](#Sustainability-Hackathon)  
 5. 🎨 [Website Prototyping on Figma](#Website-Prototyping-on-Figma)  
-6. 📜 [Certifications](#Certifications)  
+6. 📜 [Certifications](#Certifications)
+7. !! [Jobs](#Jobs)  
+
 ---
 
 ## VR Application for Ergonomic Training   
@@ -158,3 +160,12 @@ Designed and prototyped a **responsive website** for a **client project**, focus
  - Relevant to **Digital Supply Chain & Workflow Optimization Projects**.
 
 📌 **[View Certification](https://github.com/JasraHaja/jasra-projects-portfolio/blob/main/SCM%20CERTIFICATE.pdf)**
+
+-MOE-IRS Certified instructor 
+
+
+## Jobs
+
+- Part time coding and robotics coach at robothink for 2 years LOLOLOLOLOOLOLOLOLOLOLOLOL
+- Freelance coding and robotics coach at EP-Tech
+
