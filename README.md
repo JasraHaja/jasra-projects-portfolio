@@ -1,11 +1,10 @@
 # Jasra's Projects Portfolio 🚀
 
 
-Welcome! This repository showcases **projects where I integrate technology, automation, and structured problem-solving** to improve **workflow efficiency, cybersecurity, and digital transformation.**  
+Welcome! This repository showcases my work in leveraging automation, cybersecurity, and structured problem-solving to improve workflow efficiency, security, and digital transformation.
+With a background in computer engineering and supply chain optimization, I specialize in creating scalable, structured solutions that drive measurable impact.
 
-Each project reflects my ability to **analyze systems, optimize processes, and implement technical solutions**—bridging the gap between **engineering, operations, and project execution.**  
 
-With experience in **automation, cybersecurity, and supply chain optimization,** I focus on **creating scalable, structured solutions** that drive **real-world impact.**   
 
 
 1. 🎮 [VR Application for Ergonomic Training](#VR-Application-for-Ergonomic-Training)  
@@ -86,8 +85,6 @@ Conducted **firewall security hardening** for enterprise systems to **strengthen
 
 ### 🛠 **Tech & Tools Used**  
 - **Fortinet Firewall**  
-- **Snort IDS** (Intrusion Detection)  
-- **Wireshark** (Traffic Analysis)  
 - **Linux Shell Scripting**  
 
 ### ⚡ **Challenges & How I Solved Them**  
@@ -163,9 +160,9 @@ Designed and prototyped a **responsive website** for a **client project**, focus
 ## Certifications
 
 - **Supply Chain Management (SCM) Certification** – *Awarded by [SIX SIGMA ACADEMY AMSTERDAM]* *(Feb 2025)*  
- - Demonstrates expertise in **logistics, supply chain analytics, and operational efficiency**.
- - Relevant to **Digital Supply Chain & Workflow Optimization Projects**.
-
+  - **Demonstrates expertise** in **logistics, supply chain analytics, and operational efficiency**.
+  - **Relevant to:** **Digital Supply Chain, Workflow Optimization, and Industry 4.0 Applications**.
+    
 📌 **[View Certification](https://github.com/JasraHaja/jasra-projects-portfolio/blob/main/SCM%20CERTIFICATE.pdf)**
 
 -MOE-IRS Certified instructor 
